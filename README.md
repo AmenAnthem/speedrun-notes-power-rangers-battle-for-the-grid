@@ -1,1 +1,7 @@
-# speedrun-notes-power-rangers-battle-for-the-grid
+---
+title: Index
+author: AmenAnthem
+---
+
+# Routes
+- [Story Mode](routes/story-mode.md)
